@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1524562557 source:d:\11_e\grafuri grafic\main.cpp
+	<iostream>
+	<graphics.h>
+	<fstream>
+	<time.h>
+	<cmath>
+	<cstdlib>
+
+1524567011 source:c:\users\costangy\desktop\teo projects\grafuri grafic\main.cpp
+	<iostream>
+	<graphics.h>
+	<fstream>
+	<time.h>
+	<cmath>
+	<cstdlib>
+
